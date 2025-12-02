@@ -8,7 +8,7 @@ martin.wegmann@unibe.ch
 
 # Content of this repository
 
-This is code behind the plots in Wegmann 2025 (TBA)
+In the folder notebooks, you find the python notebooks with the code behind the plots in Wegmann 2025 (TBA)
 
 # License
 
